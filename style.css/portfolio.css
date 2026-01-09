@@ -272,6 +272,46 @@ nav{
     width: 20px;
     height: 20px;
     }
+    #access{
+        padding: 120px 40px;
+        background-color: #ffffff;
+    }
+    .access-inner{
+        max-width: 1360px;
+        margin: 0 auto;
+        padding:80px 40px 80px 40px;
+        border-radius: 12px;
+        background: rgba(247, 246, 242, 1);
+        text-align: center;
+        align-items: center;
+        gap: 24px;
+
+    }
+    .access-inner h2{
+        font-style: bold;
+        font-size: 40px;
+        font-weight: 700px;
+        line-height: 48px;
+        margin-bottom: 12px;
+    }
+    .access-inner p{
+        font-size: 14px;
+        color: #64748b;
+        line-height: 26px;
+        max-width: 720px;
+        margin: 0 auto;
+    }
+    .access-btn{
+         margin-top: 8px;
+         padding: 14px 28px;
+        background-color: #30B868;
+        color: #ffffff;
+        border: none;
+        border-radius: 8px;
+       font-size: 16px;
+       font-weight: 600;
+       cursor: pointer;
+    }
 
 
    
